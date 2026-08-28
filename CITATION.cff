@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "drivecycle-stats"
+abstract: >-
+  Descriptive analysis and two-sample statistical comparison of driving-cycle
+  data: microtrip segmentation, standard trip descriptors, vehicle-specific
+  power, energy distance, and TOST equivalence testing.
+version: 0.1.0
+date-released: "2026-08-28"
+authors:
+  - family-names: "Mafi"
+    given-names: "Shahab"
+    orcid: "https://orcid.org/0000-0003-1494-8655"
+    email: "csmafi@gmail.com"
+license: MIT
+keywords:
+  - driving cycle
+  - microtrip
+  - vehicle-specific power
+  - energy distance
+  - equivalence testing
+repository-code: "https://codeberg.org/csmafi/drivecycle-stats"
