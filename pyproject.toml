@@ -32,8 +32,7 @@ dev = ["pytest>=7.0", "ruff>=0.4"]
 notebooks = ["jupyter", "openpyxl"]
 
 [project.urls]
-Homepage = "https://codeberg.org/csmafi/drivecycle-stats"
-Mirror = "https://github.com/csmafi/drivecycle-stats"
+Homepage = "https://github.com/csmafi/drivecycle-stats"
 
 [tool.setuptools.packages.find]
 where = ["src"]

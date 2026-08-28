@@ -12,6 +12,7 @@ authors:
     given-names: "Shahab"
     orcid: "https://orcid.org/0000-0003-1494-8655"
     email: "csmafi@gmail.com"
+doi: "10.5281/zenodo.22150262"
 license: MIT
 keywords:
   - driving cycle
@@ -19,4 +20,4 @@ keywords:
   - vehicle-specific power
   - energy distance
   - equivalence testing
-repository-code: "https://codeberg.org/csmafi/drivecycle-stats"
+repository-code: "https://github.com/csmafi/drivecycle-stats"

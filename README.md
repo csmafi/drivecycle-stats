@@ -1,5 +1,7 @@
 # drivecycle-stats
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22150262.svg)](https://doi.org/10.5281/zenodo.22150262)
+
 Tools to describe driving trips from per-second speed data, and to compare two sets of trips with a formal statistical test.
 
 ## Install
@@ -54,12 +56,11 @@ See `docs/methods.md` for a full write-up. Short version:
 
 ## Where this lives
 
-The main repository is on Codeberg. A mirror is kept on GitHub. Both hold the
-same code; open issues on Codeberg.
+https://github.com/csmafi/drivecycle-stats — open issues there.
 
 ## Licence and how to cite
 
-This package is MIT licensed, see `LICENSE`. To cite it, see `CITATION.cff`.
+This package is MIT licensed, see `LICENSE`. Cite it with the DOI above, or see `CITATION.cff`.
 
 ## Author
 

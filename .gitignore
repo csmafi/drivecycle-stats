@@ -9,3 +9,7 @@ dist/
 *.csv
 *.7z
 *.xlsx
+
+# Reference cycle files downloaded by examples (not redistributed)
+*.txt
+!requirements.txt
