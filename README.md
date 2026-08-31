@@ -37,7 +37,6 @@ print(trip_descriptors(frame))
 - Energy distance: a statistical distance between two samples that is sensitive to the whole shape of the data, not just the average.
 - TOST: a formal way to test whether two samples are close enough to call equivalent, not just "not significantly different."
 - A tool to flag unusual trips using density estimation.
-- Figures in a fixed style, ready for a paper.
 
 ## Scope and limits
 
